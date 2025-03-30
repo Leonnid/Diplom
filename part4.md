@@ -30,3 +30,6 @@ export TURTLEBOT3_MODEL=waffle_pi && ros2 launch turtlebot3_navigation2 navigati
 ```bash
 export TURTLEBOT3_MODEL=waffle_pi && ros2 run turtlebot3_teleop teleop_keyboard
 ```
+
+
+![TurtleBot3 Waffle Pi](./images/test_robot.png)
